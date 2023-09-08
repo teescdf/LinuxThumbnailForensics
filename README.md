@@ -10,7 +10,7 @@ Download the thumbnailcollection.py script and use as follows:
 
     python3 thumbnailcollection.py
 
-Then specify the location of the thumbnail directory (e.g. /home/[user]/.cache/thumbnails)
+Then specify the location of the thumbnail directory from which you wish to obtain the thumbnail filenames (e.g. /home/[user]/.cache/thumbnails).
 
 The results will be collected into a text file named filenames.txt, in the same directory as where the script was run from. For multiple users it is recommended that you collect and rename before running the script again for other users. Note sudo may be required to collect thumbnail information from other user accounts, unless logging in as each account in turn is done.
 
