@@ -1,4 +1,6 @@
-# This script is designed to parse and extract the filenames of any thumbnail files present within a Linux user account. These files are typically located within $HOME/.cache/thumbnails. Running the script,and then giving it the path to the thumbnail directory will result in a text file being produced in the same directory as the script was run from, which will contain the subfolder and filename details of the thumbnail files present.
+# This script is designed to parse and extract the filenames of any thumbnail files present within a Linux user account.
+# These files are typically located within $HOME/.cache/thumbnails.
+# Running the script, and then giving it the path to the thumbnail directory will result in a text file being produced in the same directory as the script was run from, which will contain the subfolder and filename details of the thumbnail files present.
 
 import os
 
